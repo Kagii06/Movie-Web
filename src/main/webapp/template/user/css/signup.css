@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+.btn-link{
+	color: #386bc0;
+}
+.btn-signup{
+	background-color: #386bc0;
+	color: white;
+}
+.form-outline{
+	text-align: left;
+}
+
+.btn-gender{
+	background-color: #386bc0;
+	color: white;
+}
+
+.input-group-append {
+  cursor: pointer;
+}
